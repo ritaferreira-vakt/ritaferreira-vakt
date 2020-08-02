@@ -1,4 +1,4 @@
-![image](https://github.com/ritaferreira-vakt/ritaferreira-vakt/blob/master/coffee.gif)
+![image](https://github.com/ritaferreira-vakt/ritaferreira-vakt/blob/master/LmkI.gif)
 <!--
 **ritaferreira-vakt/ritaferreira-vakt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
