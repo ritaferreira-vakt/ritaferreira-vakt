@@ -1,5 +1,12 @@
+## Hi. :seedling:
 
-![image](https://github.com/ritaferreira-vakt/ritaferreira-vakt/blob/master/succulent.gif) 
+<p align="center">
+  <img src="https://github.com/ritaferreira-vakt/ritaferreira-vakt/blob/master/succulent.gif">
+</p>
+<p align="center">Overwatering is a bigger problem for succulents than under watering</p>
+
+
+
 
 <!--
 **ritaferreira-vakt/ritaferreira-vakt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
